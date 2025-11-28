@@ -1,4 +1,4 @@
-![output](https://jumpshare.com/s/bVqk8I3RTVNwtuP3JDph)
+![output](./output.gif)
 
 # weather-cli
 
