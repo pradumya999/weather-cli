@@ -1,5 +1,3 @@
-![output](./output.gif)
-
 # weather-cli
 
 A simple and lightweight **Weather CLI tool** built using **Node.js**, **Axios**, and **Commander**, designed to quickly fetch real-time **weather** and **air quality** information for any location.
@@ -20,3 +18,6 @@ The CLI fetches data from the **OpenWeather API**:
 - Retrieves detailed weather statistics from the **Weather API**  
 - Fetches air pollution data from the **Air Pollution API**  
 - Displays the results in a clean, readable format directly in the terminal
+
+  
+![output](./output.gif)
