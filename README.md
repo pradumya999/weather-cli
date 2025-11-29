@@ -20,4 +20,4 @@ The CLI fetches data from the **OpenWeather API**:
 - Displays the results in a clean, readable format directly in the terminal
 
   
-![output](./output.gif)
+![output](./output.jpg)
