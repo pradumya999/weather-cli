@@ -19,5 +19,6 @@ The CLI fetches data from the **OpenWeather API**:
 - Fetches air pollution data from the **Air Pollution API**  
 - Displays the results in a clean, readable format directly in the terminal
 
-  
+## Output
+
 ![output](./output.jpg)
